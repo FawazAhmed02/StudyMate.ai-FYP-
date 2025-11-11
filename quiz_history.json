@@ -1,0 +1,93 @@
+{
+  "fb53a957c03fd9e54fc4c30778d5301e": {
+    "topic": "data structures",
+    "type": "mcq",
+    "difficulty": "easy",
+    "user_id": "guest",
+    "quiz": "Okay, here are five easy multiple-choice questions on \"Data Structures\" based on the provided passage, formatted as you requested:\n\nQ1. Which of the following is NOT a goal of this book?\nA) Introduce the commonly used data structures.\nB) To teach how to measure the effectiveness of a data structure or algorithm.\nC) To teach the basic mathematics for data structures.\nD) To introduce the idea of tradeoffs, and reinforce that there are costs and benefits associated with every data structure.\nAnswer: C\n\nQ2. What is the term used for the organization of data on peripheral storage?\nA) Data structure\nB) File structure\nC) Memory manager\nD) Abstract data type\nAnswer: B\n\nQ3. What is the term for a data item's value being protected from outside access?\nA) Type\nB) Encapsulation\nC) Data structure\nD) Algorithm\nAnswer: B\n\nQ4. What are the two conflicting goals of computer program design?\nA) Easy to understand and debug vs. Efficient use of computer resources\nB) Object Oriented vs. Procedural programming\nC) Hardware vs. Software design\nD) Abstraction vs. Physical Implementation\nAnswer: A\n\nQ5. If two elements are in a relation that is an \"equivalence relation\", what must be true about their subsets?\nA) They are not in the same subset\nB) They are the same element\nC) They are disjoint subsets\nD) They are elements of the same subset\nAnswer: D\n"
+  },
+  "3beb623bbe189ca6db534aac017254a6": {
+    "topic": "data structures",
+    "type": "true_false",
+    "difficulty": "easy",
+    "user_id": "guest",
+    "quiz": "Q1. The first edition of the passage textbook had no mention of design patterns.\nAnswer: True\nQ2. In Java programming applications, parameter checking should be avoided to illuminate the text.\nAnswer: False\nQ3. A bag is a collection of elements with an order, and which may contain duplicate-valued elements.\nAnswer: False\nQ4. This book is intended as a teaching text.\nAnswer: True\nQ5. It is impossible to extract portions of this document provided that the front page, including the title, author, and this notice are included.\nAnswer: False\n"
+  },
+  "a9726447ec31ca36cfec5eedd5560fcb": {
+    "topic": "pointers",
+    "type": "true_false",
+    "difficulty": "hard",
+    "user_id": "guest",
+    "quiz": "Q1. A variable's storage class determines whether its value is stored in memory or CPU registers.\nAnswer: True\n\nQ2. With call by reference, the values present in actual arguments are physically moved to the formal arguments.\nAnswer: False\n\nQ3. The expression `z = x**y` is a valid way to perform exponentiation in C using the characters `*` and `=`.\nAnswer: False\n\nQ4. When an integer pointer is incremented, it always points to an address that is one byte higher than the previous address.\nAnswer: False\n\nQ5. The `void` keyword must be used when main() does not return any values.\nAnswer: False\n"
+  },
+  "775a84852c9a8be952a4dd96f9c068f4": {
+    "topic": "data structures",
+    "type": "mcq",
+    "difficulty": "medium",
+    "user_id": "guest",
+    "quiz": "Here are 5 medium-level multiple-choice questions on \"data structures\" based on the provided text:\n\n**Q1.** Which of the following design patterns is employed by the code example to use a single copy of a node in multiple places?\nA) Strategy\nB) Flyweight\nC) Visitor\nD) Composite\nAnswer: B\n\n**Q2.** According to the passage, what is a key consideration when selecting a data structure to solve a problem?\nA) The amount of programming tricks it supports.\nB) The programmer's familiarity with the data structure.\nC) The performance goals and resource constraints of the problem.\nD) The latest computer hardware specifications.\nAnswer: C\n\n**Q3.** What distinguishes an Abstract Data Type (ADT) from a Data Structure?\nA) An ADT specifies how the data type is implemented, while a Data Structure only defines the interface.\nB) An ADT defines a type and a set of operations without specifying implementation, while a Data Structure *is* an implementation of an ADT.\nC) An ADT is used for logical design, while a Data Structure is for physical design.\nD) Both B and C.\nAnswer: D\n\n**Q4.** What is the PRIMARY goal when designing a data structure for disk-based applications, and why is it important?\nA) Minimizing space, because disk space is far more expensive than main memory.\nB) Maximizing sequential access, because the I/O head can move faster across contiguous sectors.\nC) Minimizing the number of disk accesses, because disk I/O is significantly slower than main memory access.\nD) Maximizing the number of files, so we can perform disk operations in parallel.\nAnswer: C\n\n**Q5.** Which of the following tree traversals is most useful for printing a Binary Search Tree (BST) in ascending order?\nA) Preorder Traversal\nB) Postorder Traversal\nC) Breadth-First Traversal\nD) Inorder Traversal\nAnswer: D\n"
+  },
+  "63b0ef175250154da395a79b3965613c": {
+    "topic": "queue",
+    "type": "mcq",
+    "difficulty": "easy",
+    "user_id": "guest",
+    "quiz": "Okay, here are 5 easy multiple-choice questions about queues, based on the passage:\n\nQ1. In a queue, the addition of a new element takes place at the end known as?\nA) Front\nB) Rear\nC) Top\nD) Node\nAnswer: B\n\nQ2. How is deletion of an element done in queue data structure?\nA) from the end of queue\nB) from the top of queue\nC) from any node in the queue\nD) from the front of queue\nAnswer: D\n\nQ3. What does this sentence implies \"Exceptional conditions such as dequeue full or empty should be indicated.\"\nA) queue can be created according to the need\nB) queue can be created only if the elements are available\nC) appropriate message should be displayed if elements can not be inserted or deleted\nD) all the elements can not be deleted once the queue is full\nAnswer: C\n\nQ4. Queue can be implemented using which data structures?\nA) singly linked list\nB) arrays\nC) doubly linked list\nD) all of the above\nAnswer: D\n\nQ5. Is Queue a first in first out data structure? [Yes/No]\nA) Yes\nB) No\nC) May be\nD) Can't say\nAnswer: A\n"
+  },
+  "cbb7a1b40fe7c9a5b6c6fe5aaaa654af": {
+    "topic": "structures",
+    "type": "mcq",
+    "difficulty": "easy",
+    "user_id": "guest",
+    "quiz": "Okay, here are 5 easy-level multiple-choice questions on the topic of structures, based on the provided passage:\n\nQ1. What is a structure in C primarily used for?\nA) Performing mathematical operations\nB) Grouping together different variables, potentially of different data types\nC) Storing large arrays of numbers\nD) Controlling the flow of execution in a program\nAnswer: B\n\nQ2. How do you access an element within a structure variable?\nA) Using the `[]` (square bracket) operator\nB) Using the `.` (dot) operator\nC) Using the `->` (arrow) operator\nD) Using the `*` (asterisk) operator\nAnswer: B\n\nQ3. In the context of structures, what is meant by \"nested structures\"?\nA) Structures that contain only integer variables\nB) Structures that are declared within other structures\nC) Structures that are used to store strings\nD) Structures with elements listed in alphabetical order\nAnswer: B\n\nQ4. If you have a pointer to a structure, which operator would you use to access its members?\nA) . (dot)\nB) -> (arrow)\nC) [] (square brackets)\nD) * (asterisk)\nAnswer: B\n\nQ5. What is the keyword used to define a structure in C?\nA) define\nB) struct\nC) typedef\nD) union\nAnswer: B\n"
+  },
+  "55ee82bcc095e41deaa21d0d1b4e6ae9": {
+    "topic": "array",
+    "type": "mcq",
+    "difficulty": "easy",
+    "user_id": "guest",
+    "quiz": "Okay, here are 5 easy multiple-choice questions on the topic of \"arrays\", based on the provided text:\n\n**Q1.** Which data type is primarily used for storing a collection of similar quantities?\nA) Structure\nB) Array\nC) Union\nD) Pointer\nAnswer: B\n\n**Q2.** In C, what is the index of the first element in an array?\nA) 1\nB) 0\nC) -1\nD) Varies depending on the compiler\nAnswer: B\n\n**Q3.** All elements of any given array must be of\nA) Different data types.\nB) The same data type.\nC) A mix of ints and floats.\nD) Pointers.\nAnswer: B\n\n**Q4.** What are arrays also known as?\nA) Entities\nB) Keywords\nC) Subscripted variables\nD) Identifiers\nAnswer: C\n\n**Q5.**  If you're initializing an array, what must you not forget to include?\nA) semi colon\nB) Curly braces\nC) .h file\nD) null terminator\nAnswer: D\n"
+  },
+  "2c3c9a8be8f8619c7abfa416c23a9dbf": {
+    "topic": "functions",
+    "type": "mcq",
+    "difficulty": "easy",
+    "user_id": "Shahzaib Mirza",
+    "quiz": "Okay, here are 5 multiple-choice questions about functions based on the provided passage, designed to be relatively easy:\n\nQ1. What is a function, according to the passage?\nA) A type of variable used to store data.\nB) A self-contained block of statements that performs a specific task.\nC) A preprocessor directive for including header files.\nD) A keyword used to declare data types.\nAnswer: B\n\nQ2. According to the text, which of the following is a benefit of using functions?\nA) Functions always make programs run faster.\nB) Functions allow code to be reused and make programs easier to understand.\nC) Functions eliminate the need for comments in code.\nD) Functions automatically optimize memory usage.\nAnswer: B\n\nQ3.  In the C language, function definitions must be placed at the beginning of the program.\nA) True\nB) False\nC) Depends on the complexity of the function\nD) Depends on whether or not the function is part of a standard library\nAnswer: B\n\nQ4. What is the role of 'main()' in a C program?\nA) It's an optional function that provides additional features.\nB) It's the function where the program execution begins.\nC) It's a function used only for printing output to the console.\nD) It's a function used only for receiving input from the user.\nAnswer: B\n\nQ5.  If a function does not return any value, what keyword should precede the function definition?\nA) int\nB) float\nC) void\nD) char\nAnswer: C\n"
+  },
+  "51a2fd0a2d572c1020915043a7e14123": {
+    "topic": "loops",
+    "type": "mcq",
+    "difficulty": "easy",
+    "user_id": "Shahzaib Mirza",
+    "quiz": "Okay, here are 5 easy multiple-choice questions about loops, based on the provided passage:\n\nQ1. What is the primary function of a loop control instruction in C?\nA) To perform arithmetic operations.\nB) To control the order of execution of instructions.\nC) To repeat a set of instructions.\nD) To declare the type of variables.\nAnswer: C\n\nQ2. Which of the following is NOT a type of loop control instruction in C?\nA) for\nB) while\nC) if-else\nD) do-while\nAnswer: D\n\nQ3. In a `while` loop, when does the condition get checked?\nA) After the loop has executed once.\nB) Before each execution of the loop.\nC) Only at the end of the loop.\nD) Only in the middle of the loop.\nAnswer: B\n\nQ4. What happens if the condition in a `while` loop never becomes false?\nA) The program terminates immediately.\nB) The loop executes once and then stops.\nC) The loop executes indefinitely (infinite loop).\nD) The compiler reports an error.\nAnswer: C\n\nQ5. Which of the following steps are needed in `while` loop\nA) Initialization\nB) Condition\nC) Incrementation\nD) All of the above\nAnswer: D\n"
+  },
+  "8490e5b3b3bedcecd9c15c36ec3588d1": {
+    "topic": "loops",
+    "type": "true_false",
+    "difficulty": "hard",
+    "user_id": "Shahzaib Mirza",
+    "quiz": "Q1. C has only one type of loop control instruction: the for statement.\nAnswer: False\n\nQ2. When the \"continue\" statement is encountered within a loop, the control passes to the statement immediately following the loop.\nAnswer: False\n\nQ3. The test condition in a \"do-while\" loop is checked before the statements within the loop are executed.\nAnswer: False\n\nQ4. In C, a floating point number cannot be used as a loop counter.\nAnswer: False\n\nQ5. The `break` statement, when used inside nested loops, will exit all of the loops.\nAnswer: False\n"
+  },
+  "559ebea3172cf8fa3de6a42320f84c75": {
+    "topic": "deadlock",
+    "type": "true_false",
+    "difficulty": "easy",
+    "user_id": "Shahzaib Mirza",
+    "quiz": "Here are 5 true or false questions based on the provided passage, at an easy level:\n\nQ1. A deadlock is a state where a set of processes request resources that are held by other processes in the set.\nAnswer: True\n\nQ2. Deadlock prevention is the best approach to handle deadlocks in distributed systems.\nAnswer: False\n\nQ3. In a Wait-For-Graph (WFG), nodes are processes.\nAnswer: True\n\nQ4. A system is deadlocked if there is no cycle in the WFG.\nAnswer: False\n\nQ5. A deadlock detection algorithm must not report deadlocks that do not exist.\nAnswer: True\n"
+  },
+  "6f11cc658653ba56f54f8130cdfeca28": {
+    "topic": "deadlock",
+    "type": "mcq",
+    "difficulty": "hard",
+    "user_id": "Shahzaib Mirza",
+    "quiz": "Here are 5 hard-level multiple-choice questions about deadlock, based on the provided passage:\n\n**Q1.** Which of the following statements concerning deadlock handling strategies in distributed systems is most accurate, based on the text?\nA) Deadlock prevention, achieved by acquiring all resources simultaneously, is a highly efficient and practical approach in distributed systems due to minimal inter-site communication.\nB) Deadlock avoidance, while theoretically sound, is often impractical in distributed systems primarily due to the difficulty of ensuring a safe global state with the inherent uncertainty and delays in inter-site communication.\nC) Deadlock detection is generally avoided because of the complexity of maintaining a Wait-For-Graph across distributed sites.\nD) A hybrid approach combining deadlock prevention and avoidance is the most favoured since it mitigates the drawbacks of individual approaches.\nAnswer: B\n\n**Q2.** According to the text, what is the primary implication of satisfying the \"Progress\" condition in a deadlock detection algorithm?\nA) The algorithm should never falsely detect deadlocks that do not exist, ensuring system stability.\nB) The algorithm must eventually detect all existing deadlocks within a finite timeframe, even if it requires waiting for additional events beyond the initial wait-for dependencies.\nC) After all wait-for dependencies for a deadlock have formed, the algorithm should detect the deadlock without requiring further events or delays.\nD) All sites must have accurate knowledge of the current system state to detect any deadlock.\nAnswer: C\n\n**Q3.** Given the descriptions of deadlock models, which statement accurately differentiates the AND model from the single-resource model?\nA) In the AND model, a process can request only one resource, making it a specialized case of the single-resource model.\nB) The AND model is more general than the single-resource model because it allows a process to have multiple outstanding resource requests that must all be satisfied simultaneously.\nC) The single-resource model allows for cycles in the WFG to always indicate a deadlock, while the AND model requires additional conditions to confirm a deadlock.\nD) There are no differences between single-resource and AND models, both allow a process to have only one outstanding resource request for only one unit of resource.\nAnswer: B\n\n**Q4.** According to the text, which statement accurately describes the Mitchell and Merritt\u2019s Algorithm for the Single-Resource Model?\nA) It falls under the diffusion computation approach, diffusing deadlock detection across the WFG.\nB) It uses global state detection, taking system snapshots and examining them for deadlock conditions.\nC) It is an edge-chasing algorithm where probe messages are sent in the opposite direction of WFG edges, with deadlock detection occurring when a probe returns to its initiator.\nD) It relies on exchanging local WFGs between sites to construct a global WFG and identify cycles, therefore it is a path-pushing algorithm.\nAnswer: C\n\n**Q5.** In the Kshemkalyani-Singhal algorithm for the P-out-of-Q model, what is the function of the \"weight\" variable (wi) and the SHORT messages in termination detection?\nA) The weight variable is used to prioritize processes in deadlock resolution, while SHORT messages indicate that a process has been rolled back.\nB) The weight variable tracks the number of resources held by a process, and SHORT messages are used to request additional resources.\nC) The weight variable is a local count of outstanding requests and replies, used in coordination with ECHO messages.\nD) The weight variable (wi) is used to track the progress of the algorithm, being distributed among FLOOD and ECHO messages, with SHORT messages returning unused weights to the initiator to signal termination.\nAnswer: D\n"
+  },
+  "7dae3ec8fab9f718ed299f2a6fcf90d3": {
+    "topic": "deadlock",
+    "type": "mcq",
+    "difficulty": "easy",
+    "user_id": "Shahzaib Mirza",
+    "quiz": "Q1. What is a deadlock in distributed systems?\nA) A state where a process is running efficiently.\nB) A state where a set of processes request resources held by other processes in the set.\nC) A state where resources are readily available to all processes.\nD) A state where processes release resources immediately after use.\nAnswer: B\n\nQ2. Which of the following is NOT an assumption made in the system model?\nA) The systems have only reusable resources.\nB) Processes are allowed to make only exclusive access to resources.\nC) There is only one copy of each resource.\nD) There is a physical global clock in the system.\nAnswer: D\n\nQ3. In a Wait-For-Graph (WFG), what do nodes represent?\nA) Resources\nB) Processes\nC) Communication links\nD) Sites\nAnswer: B\n\nQ4. Which of the following is mentioned as a strategy for handling deadlocks?\nA) Deadlock creation\nB) Deadlock detection\nC) Deadlock propagation\nD) Deadlock ignoring\nAnswer: B\n\nQ5. According to the passage, which deadlock handling approach seems to be the best in distributed systems?\nA) Deadlock prevention\nB) Deadlock avoidance\nC) Deadlock detection\nD) Ignoring deadlocks\nAnswer: C\n"
+  }
+}
